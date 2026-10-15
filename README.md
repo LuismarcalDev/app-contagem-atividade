@@ -1,9 +1,8 @@
-# Meu Progresso
 
 ## Informações do aluno
 
-- **Nome:** Luis
-- **Disciplina:** Dispositivos Móveis
+- **Nome:** Luis felippe 
+- **Disciplina:** Desenvolvimento para Dispositivos Móveis I
 
 ## Descrição da atividade
 
